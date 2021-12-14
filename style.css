@@ -33,8 +33,7 @@ h1{
     outline: none;
     border-bottom: 1px solid lightgrey;
     font-size: .9rem;
-    margin: 20px 0;
-    margin: 15px auto;
+    margin: 25px auto;
     background-color:transparent;
 }
 .form-control::placeholder{
